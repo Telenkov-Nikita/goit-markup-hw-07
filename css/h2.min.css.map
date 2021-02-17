@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,EAAE,AAAC,CACD,UAAU,CAAE,MAAM,CAClB,aAAa,CAAE,IAAI,CACpB",
-    "sources": [
-        "../SASS/components/h2.scss"
-    ],
-    "names": [],
-    "file": "h2.min.css"
-}
