@@ -1,20 +1,20 @@
 // utils
-@import "./utils/variables";
-@import "./utils/visually-hidden";
+@import "./utils/_variables";
+@import "./utils/_visually-hidden";
 
 // base
-@import "./base/common.scss";
-@import "./base/container.scss";
+@import "./base/_common.scss";
+@import "./base/_container.scss";
 
 // layout
-@import "./layout/advantages.scss";
-@import "./layout/btns.scss";
-@import "./layout/first-block.scss";
-@import "./layout/footer.scss";
-@import "./layout/header.scss";
-@import "./layout/portfolio.scss";
-@import "./layout/team.scss";
-@import "./layout/what-we-do.scss";
+@import "./layout/_advantages.scss";
+@import "./layout/_btns.scss";
+@import "./layout/_first-block.scss";
+@import "./layout/_footer.scss";
+@import "./layout/_header.scss";
+@import "./layout/_portfolio.scss";
+@import "./layout/_team.scss";
+@import "./layout/_what-we-do.scss";
 
 // components
-@import "./components/h2.scss";
+@import "./components/_h2.scss";
